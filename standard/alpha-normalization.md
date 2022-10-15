@@ -767,6 +767,18 @@ alphaNormalize (Some a₀) = Some a₁
     Text/replace ↦ Text/replace
  
  
+    ─────────────────────
+    Date/show ↦ Date/show
+
+
+    ─────────────────────
+    Time/show ↦ Time/show
+
+
+    ─────────────────────────────
+    TimeZone/show ↦ TimeZone/show
+
+
     ───────────
     Bool ↦ Bool
 
